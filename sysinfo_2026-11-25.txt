@@ -1,0 +1,33 @@
+======================================
+          SYSTEM INFORMATION
+======================================
+
+Hostname:
+ASEEM-LEGION25
+
+Current Date and Time:
+Wed Nov 25 12:28:03 UTC 2026
+
+Logged-in User:
+nihal
+
+Disk Usage of Root Directory:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdc       1007G  2.4G  954G   1% /
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       764Mi        14Gi       3.1Mi       698Mi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+Top 5 Processes by Memory Usage:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         189  0.0  0.1 107012 22668 ?        Ssl  11:20   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        2956  0.0  0.0  50376 16124 ?        S<s  11:24   0:00 /usr/lib/systemd/systemd-journald
+root           1  0.0  0.0  22052 13596 ?        Ss   11:20   0:02 /usr/lib/systemd/systemd --system --deserialize=44
+systemd+    8556  0.0  0.0  21472 12288 ?        Ss   11:25   0:00 /usr/lib/systemd/systemd-resolved
+nihal        329  0.0  0.0  20064 10732 ?        Ss   11:20   0:00 /usr/lib/systemd/systemd --user --deserialize=22
+
+======================================
+          REPORT COMPLETED
+======================================
